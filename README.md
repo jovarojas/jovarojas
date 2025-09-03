@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Jova
 
-💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** | Apasionado por **Android y diseño de interfaces**  
-🌱 Aprendiendo y mejorando continuamente en **Java, HTML, CSS, JavaScript y SQL** hasta ahora 
+💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** | Apasionada por **Android y diseño de interfaces**  
+🌱 Aprendiendo y mejorando continuamente en **Java, HTML, CSS, JavaScript y SQL** hasta ahora😉
 🚀 Buscando **prácticas profesionales** para aplicar y expandir mis conocimientos  
 
 ---
